@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JabbaTheMutt
-- 👀 I’m interested in Minecraft modding and learning about Java.
-- 🌱 I’m currently learning more stuff about Java.
+- 👀 I’m interested in programming my own Language.
+- 🌱 I’m currently learning more stuff about Python.
 - 💞️ I’m looking to collaborate on nothing really. I'd rather program alone.
 - 📫 How to reach me; My Discord username is ThyMother#6969
